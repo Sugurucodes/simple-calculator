@@ -1,2 +1,11 @@
-# simple-calculator
-My first python simple calculator project using variables, inputs and if statements.
+# Simple Python Calculator
+
+A beginner Python calculator project.
+
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+Built while learning Python fundamentals.
